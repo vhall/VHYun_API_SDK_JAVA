@@ -7,6 +7,7 @@
 * 参数统一为HashMap<String, Object> 结构
 * 项目添加了jsonPath包，可以直接按path取值
 * SDK实现了所有微吼API方法，具体方法请参见 paas_api_sdk_main_1.0.jar -> paas/*
+* SDK中方法和API中方法一一对应，由于方法中无法使用横线(-)遇到横线的API统一替换成驼峰命名方法（eg: hello-world -> helloWord）
 
 ## 示例：使用方法
 
