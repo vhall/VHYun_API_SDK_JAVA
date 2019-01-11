@@ -119,7 +119,7 @@ public class DocumentTest {
 
 ## 联系我们
 
-- 如果需要帮助，请提交工单（直接向 yan.gao@vhall.com 发送邮件）
+- 如果需要帮助，请提交工单（直接向 yue.song@vhall.com 发送邮件）
 - 更详细的文档，见[官方文档站](http://www.vhallyun.com/document/detail/index?project_id=40&doc_id=952)
 - 如果发现了bug， 欢迎提交 [issue](https://github.com/vhall/VHYun_API_SDK_JAVA/issues)
 - 如果有功能需求，欢迎提交 [issue](https://github.com/vhall/VHYun_API_SDK_JAVA/issues)
